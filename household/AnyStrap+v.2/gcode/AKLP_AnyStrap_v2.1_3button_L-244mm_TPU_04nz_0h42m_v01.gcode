@@ -9,9 +9,9 @@
 ;MAXY:112.443
 ;MAXZ:5.4
 ;Generated with Cura_SteamEngine 4.10.0
-M104 S230
+M104 S205
 M105
-M109 S230
+M109 S205
 M82 ;absolute extrusion mode
 G21        ;metric values
 G90        ;absolute positioning
@@ -39637,11 +39637,11 @@ M104 S0
 ;SETTING_3 rue\\ncool_fan_full_layer = 2\\ncool_fan_speed = 100\\ninfill_pattern
 ;SETTING_3  = cubic\\ninfill_sparse_density = 20\\ninitial_layer_line_width_fact
 ;SETTING_3 or = 140.0\\nlayer_0_z_overlap = 0.2\\nline_width = 0.3\\nmaterial_fl
-;SETTING_3 ow = 80.0\\nmaterial_print_temperature = 230\\nraft_airgap = 0.35\\nr
-;SETTING_3 aft_margin = 5\\nraft_speed = 20.0\\nraft_surface_layers = 1\\nretrac
-;SETTING_3 tion_amount = 6\\nretraction_enable = False\\nretraction_speed = 40\\
-;SETTING_3 nskirt_line_count = 2\\nspeed_layer_0 = =speed_print * 30 / 60\\nspee
-;SETTING_3 d_print = 50\\nspeed_topbottom = =speed_print / 2\\nspeed_wall = =spe
-;SETTING_3 ed_print / 2\\nsupport_angle = 70\\nsupport_infill_rate = 5\\nsupport
-;SETTING_3 _z_distance = 0.35\\ntop_bottom_thickness = 0.8\\ntop_layers = 4\\nwa
-;SETTING_3 ll_line_count = 4\\nwall_thickness = 1.2\\n\\n"]}
+;SETTING_3 ow = 80.0\\nmaterial_print_temperature = 205.0\\nraft_airgap = 0.35\\
+;SETTING_3 nraft_margin = 5\\nraft_speed = 20.0\\nraft_surface_layers = 1\\nretr
+;SETTING_3 action_amount = 6\\nretraction_enable = False\\nretraction_speed = 40
+;SETTING_3 \\nskirt_line_count = 2\\nspeed_layer_0 = =speed_print * 30 / 60\\nsp
+;SETTING_3 eed_print = 50\\nspeed_topbottom = =speed_print / 2\\nspeed_wall = =s
+;SETTING_3 peed_print / 2\\nsupport_angle = 70\\nsupport_infill_rate = 5\\nsuppo
+;SETTING_3 rt_z_distance = 0.35\\ntop_bottom_thickness = 0.8\\ntop_layers = 4\\n
+;SETTING_3 wall_line_count = 4\\nwall_thickness = 1.2\\n\\n"]}
