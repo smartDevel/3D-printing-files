@@ -12,9 +12,9 @@
 M140 S35
 M105
 M190 S35
-M104 S225
+M104 S205
 M105
-M109 S225
+M109 S205
 M82 ;absolute extrusion mode
 G21        ;metric values
 G90        ;absolute positioning
@@ -42762,7 +42762,7 @@ M104 S0
 ;SETTING_3 ayer = 10\\ncool_fan_speed = 100.0\\ninfill_pattern = cubic\\ninfill_
 ;SETTING_3 sparse_density = 20.0\\nironing_enabled = False\\nline_width = 0.4\\n
 ;SETTING_3 material_flow = 90.0\\nmaterial_flow_layer_0 = 90.0\\nmaterial_print_
-;SETTING_3 temperature = 225.0\\nraft_airgap = 0.4\\nraft_margin = 5.0\\nraft_su
+;SETTING_3 temperature = 205.0\\nraft_airgap = 0.4\\nraft_margin = 5.0\\nraft_su
 ;SETTING_3 rface_layers = 1\\nretraction_amount = 6.0\\nretraction_min_travel = 
 ;SETTING_3 1.5\\nretraction_speed = 40.0\\nskirt_brim_material_flow = 100.0\\nsk
 ;SETTING_3 irt_brim_minimal_length = 0\\nskirt_brim_speed = 20.0\\nskirt_line_co
