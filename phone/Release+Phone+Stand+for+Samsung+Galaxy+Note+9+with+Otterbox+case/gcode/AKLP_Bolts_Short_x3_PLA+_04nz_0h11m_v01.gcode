@@ -9,9 +9,9 @@
 ;MAXY:72.15
 ;MAXZ:7.9
 ;Generated with Cura_SteamEngine 4.10.0
-M104 S190
+M104 S205
 M105
-M109 S190
+M109 S205
 M82 ;absolute extrusion mode
 G21        ;metric values
 G90        ;absolute positioning
@@ -25533,7 +25533,7 @@ M104 S0
 ;SETTING_3 im_line_count = 10\\ncool_fan_full_layer = 10\\ncool_fan_speed = 100.
 ;SETTING_3 0\\ninfill_pattern = cubic\\ninfill_sparse_density = 20.0\\nironing_e
 ;SETTING_3 nabled = False\\nline_width = 0.4\\nmaterial_flow = 90.0\\nmaterial_f
-;SETTING_3 low_layer_0 = 90.0\\nmaterial_print_temperature = 190.0\\nraft_airgap
+;SETTING_3 low_layer_0 = 90.0\\nmaterial_print_temperature = 205.0\\nraft_airgap
 ;SETTING_3  = 0.4\\nraft_margin = 5.0\\nraft_surface_layers = 1\\nretraction_amo
 ;SETTING_3 unt = 6.0\\nretraction_min_travel = 1.5\\nretraction_speed = 40.0\\ns
 ;SETTING_3 kirt_brim_material_flow = 100.0\\nskirt_brim_minimal_length = 0\\nski
