@@ -9,9 +9,9 @@
 ;MAXY:65.591
 ;MAXZ:29.9
 ;Generated with Cura_SteamEngine 4.10.0
-M140 S90
+M140 S60
 M105
-M190 S90
+M190 S60
 M104 S230
 M105
 M109 S230
@@ -46815,7 +46815,7 @@ M104 S0
 ;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = ASA Hook VaudeBa
 ;SETTING_3 g\\ndefinition = anycubic_kossel_linear_plus\\n\\n[metadata]\\ntype =
 ;SETTING_3  quality_changes\\nquality_type = draft\\nsetting_version = 17\\n\\n[
-;SETTING_3 values]\\nmaterial_bed_temperature = 90.0\\nsupport_enable = False\\n
+;SETTING_3 values]\\nmaterial_bed_temperature = 60.0\\nsupport_enable = False\\n
 ;SETTING_3 support_type = buildplate\\n\\n", "extruder_quality": ["[general]\\nv
 ;SETTING_3 ersion = 4\\nname = ASA Hook VaudeBag\\ndefinition = anycubic_kossel_
 ;SETTING_3 linear_plus\\n\\n[metadata]\\ntype = quality_changes\\nquality_type =
